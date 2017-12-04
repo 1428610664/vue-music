@@ -24,4 +24,4 @@
 在根目录打开黑窗口并执行：
 	node prod.server.js
 浏览器浏览：
-	http://192.168.2.126:9000
+	localhost:9000
